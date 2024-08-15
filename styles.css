@@ -356,6 +356,7 @@ header a{
 
 @media screen and (max-width: 678px) {
     .container .list .item .content{
+        top: 5%;
         padding-right: 0;
 
     }
@@ -363,6 +364,6 @@ header a{
     .container .list .item .content .title{
         font-size: 30px;
     }
-    
+   
 }
 
